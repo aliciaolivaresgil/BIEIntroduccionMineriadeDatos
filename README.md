@@ -15,7 +15,7 @@ Esta es una actividad de iniciación a la minería de datos usando el software [
 - Descargar el fichero comprimido [```datos.zip```](https://github.com/aliciaolivaresgil/BIEIntroduccionMineriadeDatos/blob/main/datos.zip).
 - Descomprimir el fichero en una carpeta local (ejemplo: Escritorio).
 - Descargar la versión portable de [Orange](https://download.biolab.si/download/files/Orange3-3.36.2.zip) para Windows.
-- Descomprimir su contenido y ejecutar el fichero ```Orange.Ink```.
+- Descomprimir su contenido y ejecutar la aplicación ```Orange```.
 - Seguir las instrucciones de la Presentación. 
 
 ## Acceder a esta página web
